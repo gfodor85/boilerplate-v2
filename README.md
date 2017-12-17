@@ -4,7 +4,10 @@ A lightweight starter kit based on Bootstrap 3 responsive framework and structur
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+If you dont have Node.js please install it
+- open command line and type: npm install
+- open command line and type: npm gulp
+- open command line and type: gulp
 
 ### Prerequisites
 
