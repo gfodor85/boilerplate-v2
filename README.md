@@ -2,6 +2,9 @@
 
 A lightweight starter kit based on Bootstrap 3 responsive framework and structured SASS with Gulp task automation
 
+<img src="https://getbootstrap.com/assets/img/bootstrap-stack.png" height="150" align="center">
+<img src="https://caffeinecreations.ca/uploads/blog/_1920x660_crop_center-center_90/sass-logo-new.png" height="150" align="center">
+
 ## Getting Started
 
 If you dont have Node.js please install it
