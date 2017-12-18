@@ -3,7 +3,7 @@
 A lightweight starter kit based on Bootstrap 3 responsive framework and structured SASS with Gulp task automation
 
 <p align="center">
-  <img src="https://github.com/gfodor85/boilerplate-v2/blob/master/src/assets/img/boilerplate_hero.png" height="150" margin-right="20px">
+  <img src="https://github.com/gfodor85/boilerplate-v2/blob/master/src/assets/img/boilerplate_hero.png">
   
 </p>
 
