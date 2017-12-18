@@ -3,9 +3,8 @@
 A lightweight starter kit based on Bootstrap 3 responsive framework and structured SASS with Gulp task automation
 
 <p align="center">
-  <img src="https://getbootstrap.com/assets/img/bootstrap-stack.png" height="150" margin-right="20px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="150">
-  <img src="https://snipcartweb-10f3.kxcdn.com/media/9590/snipcart-gulp-optimize-frontend-workflow.png" height="150">
+  <img src="https://github.com/gfodor85/boilerplate-v2/blob/master/src/assets/img/boilerplate_hero.png" height="150" margin-right="20px">
+  
 </p>
 
 ## Getting Started
